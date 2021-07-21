@@ -1,5 +1,5 @@
 # ProjectScreenshots
-智能视力表APP，非开源项目，不能展示代码，只能展示截图。
+智能视力表APP，非开源项目，安装在Android电视设备上，只能展示截图。
 
 <img src="https://user-images.githubusercontent.com/38314923/126429565-b7ae6603-62c6-468c-a727-c7f337beddf3.png" width="50%">
 <img src="https://user-images.githubusercontent.com/38314923/126435349-d0ce8c0e-2c3b-4bf2-a578-efabaa3bc578.png" width=50%>
